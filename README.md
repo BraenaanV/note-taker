@@ -10,6 +10,8 @@
   *The what, why, and how:* 
   
   A note taking app that enables the user to write, save and delete notes from a .JSON database.
+  
+  Checkout deployed application here : https://guarded-fjord-02434.herokuapp.com/
 
   ## Table of Contents
   * [Installation](#installation)
